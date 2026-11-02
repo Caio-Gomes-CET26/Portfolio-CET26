@@ -18,5 +18,5 @@ Sou estudante do curso Técnico Superior Profissional em Cibersegurança na Univ
 - Anotações sobre Administração de Sistemas
 
 ## 📎 Certificados / Avanços
-- [TryHackMe Profile](https://tryhackme.com/p/SEUUSUARIO)
+- [TryHackMe Profile]
 - [Hack The Box]
